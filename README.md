@@ -17,7 +17,7 @@ This project is a simple, responsive **Landing Page** with an integrated **Login
 ## 🧰 Technologies Used
 
 - **HTML5** – Page structure
-- **CSS3** – Styling and layout (with Flexbox)
+- **CSS3** – Styling and layout
 - **JavaScript** – Form interaction & validation
 
 ---
